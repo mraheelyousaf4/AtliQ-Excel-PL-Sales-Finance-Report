@@ -1,0 +1,12 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Excel temp and lock files
+~$*.xlsx
+~$*.xlsm
+*.tmp
+
+# Raw course data (not redistributed)
+data/*.csv
